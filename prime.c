@@ -3,7 +3,7 @@
 int main() {
 
   int n, i, flag = 0;
-  printf("Enter a positive integer: ");
+  printf("Enter a positiive integer: ");
   scanf("%d", &n);
 
   // 0 and 1 are not prime numbers
